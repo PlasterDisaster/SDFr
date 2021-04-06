@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.allowMnemonics": true,
+    "vmssoftware.project-dep.buildName": "DEBUG",
+    "files.autoSave": "onWindowChange",
+    "explorer.autoReveal": false
+}
